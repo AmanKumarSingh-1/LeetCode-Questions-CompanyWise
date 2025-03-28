@@ -1,8 +1,8 @@
-ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link,Remark
-202,Happy Number,50.4%,Easy,3.472501931831341, https://leetcode.com/problems/happy-number,done
-20,Valid Parentheses,39.0%,Easy,2.091183527592892, https://leetcode.com/problems/valid-parentheses,done
+ID,Title,Acceptance,Difficulty,Frequency,Leetcode Question Link
+202,Happy Number,50.4%,Easy,3.472501931831341, https://leetcode.com/problems/happy-number
+20,Valid Parentheses,39.0%,Easy,2.091183527592892, https://leetcode.com/problems/valid-parentheses
 322,Coin Change,35.5%,Medium,0.7098651233544434, https://leetcode.com/problems/coin-change
-121,Best Time to Buy and Sell Stock,50.5%,Easy,0.24778819384825912, https://leetcode.com/problems/best-time-to-buy-and-sell-stock,done
+121,Best Time to Buy and Sell Stock,50.5%,Easy,0.24778819384825912, https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 1328,Break a Palindrome,43.3%,Medium,0.21795507637539235, https://leetcode.com/problems/break-a-palindrome
 31,Next Permutation,32.6%,Medium,0.11480808652664298, https://leetcode.com/problems/next-permutation
 273,Integer to English Words,27.1%,Hard,0.10380963271229693, https://leetcode.com/problems/integer-to-english-words
